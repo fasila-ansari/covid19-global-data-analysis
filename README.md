@@ -35,24 +35,6 @@ owid-covid-data.csv
 
 ---
 
-## Project Structure
-
-```
-covid19-global-data-analysis
-│
-├── covid19_analysis.py
-├── owid-covid-data.csv
-├── requirements.txt
-├── README.md
-│
-└── images
-     ├── cases_over_time.png
-     ├── top_countries_cases.png
-     ├── death_rate.png
-     └── correlation_heatmap.png
-```
-
----
 
 ## Analysis Performed
 
